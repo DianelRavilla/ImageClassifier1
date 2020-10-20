@@ -94,6 +94,6 @@ while not(VictoryFor(board, "X") or VictoryFor(board, "O")):
     else:
         print("EMPATE!")
         break 
-##hola perra estuve aca ijijijijijijijijij
+# ARCHIVO DE PRUEBA
 
     
